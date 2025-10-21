@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 
 import "./App.css";
-import Aboutme from "./components/Aboutme";
+import AboutMe from "./components/AboutMe";
 import Tech from "./components/tech";
 import Projects from "./components/Projects";
 
@@ -17,7 +17,8 @@ function App() {
         </div>
         <Navbar />
         <HeroSection />
-        <Aboutme />
+        <AboutMe />
+
         <Tech />
         <Projects />
         <ContactMe />
