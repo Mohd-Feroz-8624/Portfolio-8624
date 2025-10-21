@@ -13,7 +13,7 @@ function AboutMe() {
             initial={{ opacity: 0, x: -100 }}
             transition={{ duration: 1, delay: 0.4 }}
             className="  h-60 w-90 ml-0 rounded-2xl lg:ml-65 lg:mt-15 "
-            src="heroImg2"
+            src="heroImg2.jpeg"
             alt="heroimg"
           />
         </div>
