@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 
 import "./App.css";
 import AboutMe from "./components/AboutMe";
-import Tech from "./components/tech";
+import Tech from "./components/Tech.jsx";
 import Projects from "./components/Projects";
 
 import ContactMe from "./components/ContactMe";
